@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Frontend/login_app/node_modules
+/obj
+/bin
+/.vs/DeveloperSample/FileContentIndex
+/.vs/DeveloperSample/v17
